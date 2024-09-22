@@ -71,3 +71,33 @@ To get started with HiveLance, clone the repository and install the necessary de
 git clone https://github.com/yourusername/hivelance.git
 cd hivelance
 npm install
+```
+
+## **Usage**
+
+1. Start the server:
+
+```bash
+npm start
+```
+2. Open your browser and navigate to http://localhost:3000.
+
+3. Log in using Hive Keychain or HiveAuth.
+
+4 Explore job listings or create your freelancer profile.
+
+## Project Progress
+
+**Frontend Development:** UI components are in progress.
+**Blockchain Integration:** Smart contracts for escrow and NFT minting are drafted.
+**Backend Setup:** Database schema and API structure defined.
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes and commit them (git commit -m 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
