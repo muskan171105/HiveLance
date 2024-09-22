@@ -84,7 +84,7 @@ npm start
 
 3. Log in using Hive Keychain or HiveAuth.
 
-4 Explore job listings or create your freelancer profile.
+4. Explore job listings or create your freelancer profile.
 
 ## Project Progress
 
@@ -96,8 +96,8 @@ npm start
 
 Contributions are welcome! Please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
+-Fork the repository.
+-Create a new branch (git checkout -b feature-branch).
+-Make your changes and commit them (git commit -m 'Add new feature').
+-Push to the branch (git push origin feature-branch).
+-Open a pull request.
