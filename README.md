@@ -9,6 +9,7 @@
 - [Features](#features)
 - [Revenue Model](#revenue-model)
 - [Impact](#impact)
+- [Project Structure](#project-structure)
 - [Technical Stack](#technical-stack)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -55,6 +56,44 @@ HiveLance significantly enhances the freelancing landscape by:
 - Reducing fees and ensuring faster payments for freelancers.
 - Providing clients with a trustworthy hiring process through verified skills.
 - Enabling access to the gig economy for freelancers in underserved regions.
+
+## **Project Structure**
+hivelance/
+│
+├── backend/
+│   ├── controllers/               # Controllers for handling business logic
+│   ├── models/                    # Database models (e.g., User, Job, NFT)
+│   ├── routes/                    # API route definitions
+│   ├── services/                  # Services for blockchain interactions
+│   ├── config/                    # Configuration files (e.g., database, environment)
+│   ├── middlewares/               # Middleware functions (e.g., authentication)
+│   ├── tests/                     # Unit and integration tests
+│   ├── server.js                  # Main server file
+│   └── package.json               # Backend dependencies
+│
+├── frontend/
+│   ├── public/                    # Static assets (images, favicon, etc.)
+│   ├── src/
+│   │   ├── components/            # Reusable React components
+│   │   ├── pages/                 # Page components (e.g., Home, Profile, Job Listings)
+│   │   ├── context/               # Context API for global state management
+│   │   ├── hooks/                 # Custom React hooks
+│   │   ├── styles/                # CSS styles or Tailwind configurations
+│   │   ├── utils/                 # Utility functions
+│   │   ├── App.js                 # Main React application component
+│   │   ├── index.js               # Entry point for React application
+│   └── package.json               # Frontend dependencies
+│
+├── blockchain/
+│   ├── contracts/                 # Smart contracts for the blockchain
+│   ├── migrations/                # Migration scripts for deploying contracts
+│   └── README.md                  # Documentation for blockchain setup
+│
+├── .gitignore                     # Git ignore file
+├── README.md                      # Project overview and documentation
+├── LICENSE                        # License file
+└── package.json                   # Root package.json for project dependencies (if needed)
+
 
 ## **Technical Stack**
 
