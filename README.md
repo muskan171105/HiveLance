@@ -58,6 +58,7 @@ HiveLance significantly enhances the freelancing landscape by:
 - Enabling access to the gig economy for freelancers in underserved regions.
 
 ## **Project Structure**
+```
 hivelance/
 │
 ├── backend/
@@ -93,7 +94,7 @@ hivelance/
 ├── README.md                      # Project overview and documentation
 ├── LICENSE                        # License file
 └── package.json                   # Root package.json for project dependencies (if needed)
-
+```
 
 ## **Technical Stack**
 
