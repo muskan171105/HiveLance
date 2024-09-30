@@ -128,9 +128,9 @@ npm start
 
 ## **Project Progress**
 
-**Frontend Development:** UI components are in progress.
-**Blockchain Integration:** Smart contracts for escrow and NFT minting are drafted.
-**Backend Setup:** Database schema and API structure defined.
+- **Frontend Development:** UI components are in progress.
+- **Blockchain Integration:** Smart contracts for escrow and NFT minting are drafted.
+- **Backend Setup:** Database schema and API structure defined.
 
 ## **Contributing**
 
