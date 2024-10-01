@@ -1,3 +1,4 @@
+![codehive](C:\Users\muskan srivastav\Downloads\unnamed.png)
 # **HiveLance: Decentralized Freelance Hub**
 
 **HiveLance** is a decentralized freelance marketplace built on the Hive Blockchain. It aims to eliminate intermediaries, ensure transparent payments, and provide verifiable skills for freelancers through Skill NFTs. This project empowers freelancers and clients alike by leveraging blockchain technology for secure, trustless interactions.
