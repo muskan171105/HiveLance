@@ -108,7 +108,7 @@ hivelance/
 To get started with HiveLance, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/hivelance.git
+git clone https://github.com/muskan171105/hivelance.git
 cd hivelance
 npm install
 ```
